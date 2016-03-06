@@ -1,0 +1,108 @@
+	#u101-2,#u101-4
+	{
+		text-transform: uppercase;
+	}
+
+	#u44220-4
+	{
+		background-color: transparent;
+		text-align: center;
+		font-size: 14px;
+		letter-spacing: 1px;
+		color: #7F7F7F;
+		font-family: open-sans-condensed, sans-serif;
+		font-weight: 300;
+	}
+
+	#u44215-4
+	{
+		background-color: transparent;
+		text-align: center;
+		font-size: 14px;
+		letter-spacing: 1px;
+		color: #7F7F7F;
+		font-family: open-sans-condensed, sans-serif;
+		font-weight: 300;
+	}
+
+	#u44212-4
+	{
+		background-color: transparent;
+		text-align: center;
+		font-size: 11px;
+		color: #7F7F7F;
+		letter-spacing: 1px;
+		line-height: 13px;
+		font-family: open-sans-condensed, sans-serif;
+		font-weight: 300;
+	}
+
+	#u44217-4
+	{
+		background-color: transparent;
+		text-align: center;
+		font-size: 11px;
+		color: #7F7F7F;
+		letter-spacing: 1px;
+		line-height: 13px;
+		font-family: open-sans-condensed, sans-serif;
+		font-weight: 300;
+	}
+
+	#u44216-4
+	{
+		background-color: transparent;
+		text-align: center;
+		font-size: 11px;
+		color: #7F7F7F;
+		letter-spacing: 1px;
+		line-height: 13px;
+		font-family: open-sans-condensed, sans-serif;
+		font-weight: 300;
+	}
+
+	#u44213
+	{
+		vertical-align: top;
+		background: transparent url("../images/u44213.png") no-repeat 0px 0px;
+		background-size: contain;
+	}
+
+	#u44213:hover
+	{
+		background: transparent url("../images/u44213-r.png") no-repeat 0px 0px;
+		background-size: contain;
+	}
+
+	#u44218
+	{
+		vertical-align: top;
+		background: transparent url("../images/u44218.png") no-repeat 0px 0px;
+		background-size: contain;
+	}
+
+	#u44218:hover
+	{
+		background: transparent url("../images/u44218-r.png") no-repeat 0px 0px;
+		background-size: contain;
+	}
+
+	#u44221-4
+	{
+		background-color: transparent;
+		text-align: center;
+		font-size: 12px;
+		color: #7F7F7F;
+		letter-spacing: 1px;
+		line-height: 14px;
+		font-family: open-sans-condensed, sans-serif;
+		font-weight: 300;
+	}
+
+	#u44220-4:hover p,#u44215-4:hover p,#u44212-4:hover p,#u44217-4:hover p,#u44216-4:hover p,#u44221-4:hover p
+	{
+		color: #000000;
+		visibility: inherit;
+	}
+
+
